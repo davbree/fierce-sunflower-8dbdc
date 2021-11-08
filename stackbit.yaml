@@ -33,4 +33,4 @@ models:
     type: page
     label: 1234
     fields:
-      - 
+      - type: string
