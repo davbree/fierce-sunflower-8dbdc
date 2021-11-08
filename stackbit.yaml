@@ -29,4 +29,5 @@ contentModels:
   Person:
     newFilePath: 'team/{slug}.json'
 models:
-  NewModel
+  NewModel:
+    type: page
