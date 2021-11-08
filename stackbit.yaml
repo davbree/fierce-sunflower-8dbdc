@@ -18,6 +18,10 @@ contentModels:
     isPage: true
     urlPath: '/{slug}'
     newFilePath: '{slug}.md'
+  PageLayout2:
+    isPage: true
+    urlPath: '/{slug}'
+    newFilePath: '{slug}.md'
   PostLayout:
     isPage: true
     urlPath: '/blog/{slug}'
