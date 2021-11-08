@@ -8,7 +8,6 @@ assets:
   uploadDir: images
   publicPath: /
 dataDir: content/data
-dk
 pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
