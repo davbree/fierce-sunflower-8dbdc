@@ -18,8 +18,8 @@ contentModels:
     urlPath: '/{slug}'
     newFilePath: '{slug}.md'
   PostLayout:
-     isPage: true
+    isPage: true
     urlPath: '/blog/{slug}'
     newFilePath: 'blog/{slug}.md'
- Person:
+  Person:
     newFilePath: 'team/{slug}.json'
