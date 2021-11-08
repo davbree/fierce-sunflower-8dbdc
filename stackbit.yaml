@@ -30,5 +30,5 @@ contentModels:
     newFilePath: 'team/{slug}.json'
 models:
   NewModel:
-    type: page
+    type: page2
     label: 123
