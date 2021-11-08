@@ -31,5 +31,5 @@ contentModels:
 models:
   NewModel:
     type: page
-    label: 123
+    label: 1234
     fields:
