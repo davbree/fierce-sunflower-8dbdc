@@ -32,3 +32,4 @@ models:
   NewModel:
     type: page2
     label: 123
+    fields:
