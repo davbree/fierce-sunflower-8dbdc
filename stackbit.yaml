@@ -31,7 +31,7 @@ contentModels:
 models:
   NewModel:
     type: page
-    label: 1234
+    label: my label
     fields:
       - type: string
         label: moo
