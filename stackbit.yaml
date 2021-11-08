@@ -21,5 +21,5 @@ contentModels:
     isPage: true
     urlPath: '/blog/{slug}'
     newFilePath: 'blog/{slug}.md'
-   Person:
+  Person:
     newFilePath: 'team/{slug}.json'
