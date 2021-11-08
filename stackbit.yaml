@@ -12,6 +12,7 @@ pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
 styleObjectModelName: ThemeStyle
+newField: 123
 contentModels:
   PageLayout:
     isPage: true
