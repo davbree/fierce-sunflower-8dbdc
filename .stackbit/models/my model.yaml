@@ -1,0 +1,4 @@
+type: object
+name: Button2
+label: Button
+labelField: label
