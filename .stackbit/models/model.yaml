@@ -1,0 +1,7 @@
+type: page
+label: my label
+name: myModel
+fields:
+  - type: string
+    label: moo
+    name: myField
