@@ -1,5 +1,5 @@
 {
-    "model": "CtaSection",
+    "model": "CtaSection4",
     "presets": [{
             "label": "Button dark",
             "thumbnail": "images/cta-dark.jpg",
